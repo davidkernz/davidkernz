@@ -31,7 +31,6 @@ About me:
 
 - 🔭 I'm currently working on a new project
 - 🌱 I'm currently learning C# and C++
-- 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
 
