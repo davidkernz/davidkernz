@@ -27,11 +27,11 @@
 ![Xamarin.Forms Badge](https://img.shields.io/badge/Xamarin.Forms-3498DB.svg?style=for-the-badge&logo=Xamarin&logoColor=white)
 
 
-About me:
+<!-- About me:
 
 - 🔭 I'm currently working on a new project
 - 🌱 I'm currently learning C# and C++
-- 📫 How to reach me: Email, Facebook
+- 📫 How to reach me: Email, Facebook -->
 
 
 <a href="">
